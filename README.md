@@ -10,10 +10,10 @@ Proyek ini membangun knowledge graph geopolitik dengan mengintegrasikan data dar
 flowchart TD
     A[Wikidata + DBpedia via SPARQL] --> B[CSV - Pandas Merge]
     B --> C[Neo4j Graph]
-    C --> E[GraphCypherQAChain<br/>Text-to-Cypher and GraphRAG]
-    C --> F[LLMGraphTransformer<br/>Unstructured text to Neo4j]
-    F --> E
-    D --> E
+    C --> D[GraphCypherQAChainText-to-Cypher]
+    D --> E[GraphRAGNatural Language Answer]
+    F[Unstructured Text] --> G[LLMGraphTransformerLLM Graph Builder]
+    G --> C
 ```
 
 ## Komponen
