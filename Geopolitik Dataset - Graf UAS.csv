@@ -1,0 +1,306 @@
+cityName,population,coords,countryName,continent,officialLanguage,currency
+N'Djamena,1092066,Point(15.05 12.11),Chad,Africa,French,Central African CFA franc
+Pointe-Noire,1420612,Point(11.850277777 -4.7975),Republic of the Congo,Africa,French,Central African CFA franc
+Yaoundé,2440462,Point(11.518055555 3.857777777),Cameroon,Africa,French,Central African CFA franc
+Mbuji-Mayi,2201000,Point(23.5967 -6.1209),Democratic Republic of the Congo,Africa,French,Congolese franc
+Lubumbashi,1786397,Point(27.482777777 -11.664166666),Democratic Republic of the Congo,Africa,French,Congolese franc
+Douala,2768436,Point(9.7 4.05),Cameroon,Africa,French,Central African CFA franc
+Tshikapa,1006387,Point(20.8 -6.416666666),Democratic Republic of the Congo,Africa,French,Congolese franc
+Garoua,1750000,Point(13.4 9.3),Cameroon,Africa,French,Central African CFA franc
+Brazzaville,2145783,Point(15.271111111 -4.269444444),Republic of the Congo,Africa,French,Central African CFA franc
+Antananarivo,1275207,Point(47.525 -18.91),Madagascar,Africa,French,Malagasy ariary
+Kisangani,1366000,Point(25.191111111 0.515277777),Democratic Republic of the Congo,Africa,French,Congolese franc
+Kinshasa,14565700,Point(15.311944444 -4.321944444),Democratic Republic of the Congo,Africa,French,Congolese franc
+Mbuji-Mayi,1680991,Point(23.5967 -6.1209),Democratic Republic of the Congo,Africa,French,Congolese franc
+Conakry,1667864,Point(-13.712222222 9.509166666),Guinea,Africa,French,Guinean franc
+Mbuji-Mayi,1193891,Point(23.5967 -6.1209),Democratic Republic of the Congo,Africa,French,Congolese franc
+Kananga,1971704,Point(22.416666666 -5.896111111),Democratic Republic of the Congo,Africa,French,Congolese franc
+Mbuji-Mayi,2892000,Point(23.5967 -6.1209),Democratic Republic of the Congo,Africa,French,Congolese franc
+Mbuji-Mayi,1559073,Point(23.5967 -6.1209),Democratic Republic of the Congo,Africa,French,Congolese franc
+Mbuji-Mayi,1213726,Point(23.5967 -6.1209),Democratic Republic of the Congo,Africa,French,Congolese franc
+Hamburg,1910160,Point(10.0 53.55),Germany,Europe,German,Euro
+Berlin,3782202,Point(13.383333333 52.516666666),Germany,Europe,German,Euro
+Havana,2141652,Point(-82.358888888 23.136666666),Cuba,North America,Spanish,Cuban peso
+Havana,2492618,Point(-82.358888888 23.136666666),Cuba,North America,Spanish,Cuban peso
+Havana,2089532,Point(-82.358888888 23.136666666),Cuba,North America,Spanish,Cuban peso
+Vienna,2028289,Point(16.3725 48.208333333),Austria,Europe,German,Euro
+Monterrey,1142952,Point(-100.318055555 25.684444444),Mexico,North America,Spanish,Mexican peso
+Guadalajara,1385621,Point(-103.342222222 20.676388888),Mexico,North America,Spanish,Mexican peso
+Tijuana,1964788,Point(-117.037155 32.536447),Mexico,North America,Spanish,Mexican peso
+Mexico City,9209944,Point(-99.13589 19.353773),Mexico,North America,Spanish,Mexican peso
+Zapopan,1257547,Point(-103.391111111 20.720833333),Mexico,North America,Spanish,Mexican peso
+Madrid,3506730,Point(-3.703333333 40.416944444),Spain,Europe,Spanish,Euro
+Cali,2234400,Point(-76.5225 3.437222222),Colombia,South America,Spanish,Colombian peso
+Rosario,1037710,Point(-60.639444444 -32.9575),Argentina,South America,Spanish,Argentine peso
+Santo Domingo,1029110,Point(-71.65 -33.633333333),Chile,South America,Spanish,Dominican peso
+Tegucigalpa,1055729,Point(-87.204705555 14.105783333),Honduras,North America,Spanish,Honduran lempira
+Santo Domingo,2201941,Point(-69.936111111 18.4625),Dominican Republic,North America,Spanish,Dominican peso
+Medellín,2529403,Point(-75.5675845 6.250200154),Colombia,South America,Spanish,Colombian peso
+Bogotá,8034649,Point(-74.08175 4.60971),Colombia,South America,Spanish,Colombian peso
+Buenos Aires,3121707,Point(-58.381944444 -34.599722222),Argentina,South America,Spanish,Argentine peso
+Casablanca,3218036,Point(-71.416666666 -33.316666666),Chile,South America,Spanish,Moroccan dirham
+Santiago,6269384,Point(-72.443676 -12.6175153),Peru,South America,Spanish,Chilean peso
+Santiago,6257516,Point(-70.65 -33.4375),Chile,South America,Spanish,Chilean peso
+Rosario,1193605,Point(-60.639444444 -32.9575),Argentina,South America,Spanish,Argentine peso
+Cali,2471474,Point(-76.519722222 3.44),Colombia,South America,Spanish,Colombian peso
+Santiago de los Caballeros,1343423,Point(-70.7 19.45),Dominican Republic,North America,Spanish,Dominican peso
+Santa Cruz de la Sierra,3151676,Point(-63.1975 -17.789166666),Bolivia,South America,Spanish,Bolivian boliviano
+Barranquilla,1326588,Point(-74.801944444 10.983333333),Colombia,South America,Spanish,Colombian peso
+Barcelona,1731649,Point(2.176944444 41.3825),Spain,Europe,Spanish,Euro
+Shymkent,1184113,Point(69.6 42.3),Kazakhstan,Asia,Russian,Kazakhstani tenge
+Shymkent,1184113,Point(69.6 42.3),Kazakhstan,Europe,Russian,Kazakhstani tenge
+Minsk,1995091,Point(27.561837 53.902246),Belarus,Europe,Russian,Belarusian ruble
+Almaty,2228675,Point(76.915 43.24),Kazakhstan,Asia,Russian,Kazakhstani tenge
+Almaty,2228675,Point(76.915 43.24),Kazakhstan,Europe,Russian,Kazakhstani tenge
+Astana,1078362,Point(71.433333333 51.133333333),Kazakhstan,Asia,Russian,Kazakhstani tenge
+Astana,1078362,Point(71.433333333 51.133333333),Kazakhstan,Europe,Russian,Kazakhstani tenge
+Shymkent,1191877,Point(69.6 42.3),Kazakhstan,Asia,Russian,Kazakhstani tenge
+Shymkent,1191877,Point(69.6 42.3),Kazakhstan,Europe,Russian,Kazakhstani tenge
+Sofia,1205548,Point(23.321726 42.697886),Bulgaria,Europe,Bulgarian,Bulgarian lev
+Rome,2748109,Point(12.482777777 41.893055555),Italy,Europe,Italian,Euro
+Milan,1354196,Point(9.19 45.466944444),Italy,Europe,Italian,Euro
+Prague,1397880,Point(14.421388888 50.0875),Czech Republic,Europe,Czech,Czech koruna
+Yaoundé,2440462,Point(11.518055555 3.857777777),Cameroon,Africa,English,Central African CFA franc
+Abuja,1693400,Point(7.491388888 9.055555555),Nigeria,Africa,English,Nigerian naira
+Ogbomosho,1032000,Point(4.25 8.133333333),Nigeria,Africa,English,Nigerian naira
+Onitsha,1483000,Point(6.783333333 6.166666666),Nigeria,Africa,English,Nigerian naira
+Douala,2768436,Point(9.7 4.05),Cameroon,Africa,English,Central African CFA franc
+Garoua,1750000,Point(13.4 9.3),Cameroon,Africa,English,Central African CFA franc
+Lagos,15070000,Point(3.393611111 6.456111111),Nigeria,Africa,English,Nigerian naira
+Monrovia,1021762,Point(-10.804722222 6.310555555),Liberia,Africa,English,Liberian dollar
+Ibadan,2559853,Point(3.905833333 7.3775),Nigeria,Africa,English,Nigerian naira
+Port Harcourt,3325000,Point(7.016316 4.765466),Nigeria,Africa,English,Nigerian naira
+Port Harcourt,3480000,Point(7.016316 4.765466),Nigeria,Africa,English,Nigerian naira
+Ibadan,2550593,Point(3.905833333 7.3775),Nigeria,Africa,English,Nigerian naira
+Shymkent,1184113,Point(69.6 42.3),Kazakhstan,Asia,Kazakh,Kazakhstani tenge
+Shymkent,1184113,Point(69.6 42.3),Kazakhstan,Europe,Kazakh,Kazakhstani tenge
+Almaty,2228675,Point(76.915 43.24),Kazakhstan,Asia,Kazakh,Kazakhstani tenge
+Almaty,2228675,Point(76.915 43.24),Kazakhstan,Europe,Kazakh,Kazakhstani tenge
+Baku,2300500,Point(49.835183333 40.366655555),Azerbaijan,Asia,Azerbaijani,Azerbaijani manat
+Baku,2300500,Point(49.835183333 40.366655555),Azerbaijan,Asia,Azerbaijani Sign Language,Azerbaijani manat
+Astana,1078362,Point(71.433333333 51.133333333),Kazakhstan,Asia,Kazakh,Kazakhstani tenge
+Astana,1078362,Point(71.433333333 51.133333333),Kazakhstan,Europe,Kazakh,Kazakhstani tenge
+Shymkent,1191877,Point(69.6 42.3),Kazakhstan,Asia,Kazakh,Kazakhstani tenge
+Shymkent,1191877,Point(69.6 42.3),Kazakhstan,Europe,Kazakh,Kazakhstani tenge
+Minsk,1995091,Point(27.561837 53.902246),Belarus,Europe,Belarusian,Belarusian ruble
+South Tangerang,1644899,Point(106.718055555 -6.288888888),Indonesia,Asia,Indonesian,Indonesian rupiah
+Malang,1175282,Point(112.632727716 -7.96893041),Indonesia,Asia,Indonesian,Indonesian rupiah
+Surabaya,3009286,Point(112.737767222 -7.246283611),Indonesia,Asia,Indonesian,Indonesian rupiah
+Tangerang,2237006,Point(106.640277777 -6.170277777),Indonesia,Asia,Indonesian,Indonesian rupiah
+Bandung,2875673,Point(107.607083055 -6.921845833),Indonesia,Asia,Indonesian,Indonesian rupiah
+Makassar,1338663,Point(119.413611111 -5.133055555),Indonesia,Asia,Indonesian,Indonesian rupiah
+Palembang,1535952,Point(104.764444444 -2.983333333),Indonesia,Asia,Indonesian,Indonesian rupiah
+Batam,1196396,Point(104.053055555 1.13),Indonesia,Asia,Indonesian,Indonesian rupiah
+Medan,2109330,Point(98.673888888 3.589444444),Indonesia,Asia,Indonesian,Indonesian rupiah
+Depok,2330333,Point(106.8173077 -6.405031),Indonesia,Asia,Indonesian,Indonesian rupiah
+Bekasi,2381053,Point(107.0 -6.233333333),Indonesia,Asia,Indonesian,Indonesian rupiah
+Bandar Lampung,1166761,Point(105.2625 -5.429444444),Indonesia,Asia,Indonesian,Indonesian rupiah
+Semarang,1621384,Point(110.4225 -6.99),Indonesia,Asia,Indonesian,Indonesian rupiah
+Surat,5935000,Point(72.84 21.205),India,Asia,Hindi,Indian rupee
+Jodhpur,1033918,Point(73.027777777 26.294444444),India,Asia,Hindi,Indian rupee
+Mumbai,15414288,Point(72.8775 19.075833333),India,Asia,Hindi,Indian rupee
+Vadodara,3100260,Point(73.2 22.3),India,Asia,Hindi,Indian rupee
+Rajkot,2043000,Point(70.798363888 22.296908333),India,Asia,Hindi,Indian rupee
+Vadodara,2065771,Point(73.2 22.3),India,Asia,Hindi,Indian rupee
+Thane,1886941,Point(72.963333333 19.18),India,Asia,Hindi,Indian rupee
+Rajkot,2043000,Point(70.793333333 22.291666666),India,Asia,Hindi,Indian rupee
+Islamabad,1014825,Point(73.036944444 33.698888888),Pakistan,Asia,Urdu,Pakistani rupee
+Quetta,1001205,Point(67.017222222 30.195833333),Pakistan,Asia,Urdu,Pakistani rupee
+Faisalabad,3203846,Point(73.079 31.418),Pakistan,Asia,Urdu,Pakistani rupee
+Lahore,11126285,Point(74.343611111 31.549722222),Pakistan,Asia,Urdu,Pakistani rupee
+Rawalpindi,2098231,Point(73.0679 33.6007),Pakistan,Asia,Urdu,Pakistani rupee
+Peshawar,1970042,Point(71.5675 34.014444444),Pakistan,Asia,Urdu,Pakistani rupee
+Multan,1871843,Point(71.471111111 30.197777777),Pakistan,Asia,Urdu,Pakistani rupee
+Gujranwala,2027001,Point(74.183333333 32.15),Pakistan,Asia,Urdu,Pakistani rupee
+Hyderabad,1732693,Point(68.368333333 25.379166666),Pakistan,Asia,Urdu,Indian rupee
+Karachi,14910352,Point(67.01 24.86),Pakistan,Asia,Urdu,Pakistani rupee
+Ahmedabad,7645000,Point(72.579722222 23.021944444),India,Asia,Hindi,Indian rupee
+Gwalior,1069276,Point(78.1775 26.2125),India,Asia,Hindi,Indian rupee
+Prayagraj,5954391,Point(81.85 25.45),India,Asia,Hindi,Indian rupee
+Bhopal,1798218,Point(77.416666666 23.25),India,Asia,Hindi,Indian rupee
+Kolkata,4496694,Point(88.37 22.5675),India,Asia,Hindi,Indian rupee
+Bengaluru,12327000,Point(77.5912997 12.9791198),India,Asia,Hindi,Indian rupee
+Pune,6200000,Point(73.855277777 18.521111111),India,Asia,Hindi,Indian rupee
+Lucknow,3382000,Point(80.947 26.847),India,Asia,Hindi,Indian rupee
+Ludhiana,1618879,Point(75.848611111 30.908333333),India,Asia,Hindi,Indian rupee
+Aurangabad,1175116,Point(75.32 19.88),India,Asia,Hindi,Indian rupee
+Madurai,1561129,Point(78.119394444 9.919661111),India,Asia,Hindi,Indian rupee
+Meerut,1571434,Point(77.706388888 28.98),India,Asia,Hindi,Indian rupee
+Vijayawada,1048240,Point(80.616666666 16.516666666),India,Asia,Hindi,Indian rupee
+Hyderabad,9305000,Point(78.474722222 17.361666666),India,Asia,Hindi,Indian rupee
+Agra,1585705,Point(78.02 27.18),India,Asia,Hindi,Indian rupee
+Jabalpur,1267564,Point(79.933333333 23.166666666),India,Asia,Hindi,Indian rupee
+Nagpur,2405665,Point(79.080555555 21.149722222),India,Asia,Hindi,Indian rupee
+Amritsar,1159227,Point(74.87704 31.626917),India,Asia,Hindi,Indian rupee
+Nashik,1486053,Point(73.783333333 20.0),India,Asia,Hindi,Indian rupee
+Amritsar,1132383,Point(74.87704 31.626917),India,Asia,Hindi,Indian rupee
+Delhi,26495000,Point(77.216666666 28.666666666),India,Asia,Hindi,Indian rupee
+Raipur,1010087,Point(81.6336833 21.2379468),India,Asia,Hindi,Indian rupee
+Jamshedpur,1558000,Point(86.183333333 22.8),India,Asia,Hindi,Indian rupee
+Kanpur,4581268,Point(80.331111111 26.4725),India,Asia,Hindi,Indian rupee
+Patna,1684222,Point(85.141388888 25.61),India,Asia,Hindi,Indian rupee
+Howrah,1077075,Point(88.329444444 22.58),India,Asia,Hindi,Indian rupee
+Jaipur,3073350,Point(75.82 26.915),India,Asia,Hindi,Indian rupee
+Visakhapatnam,2035922,Point(83.292222222 17.693888888),India,Asia,Hindi,Indian rupee
+Ghaziabad,2375820,Point(77.416666666 28.666666666),India,Asia,Hindi,Indian rupee
+Vasai-Virar,1222390,Point(72.8 19.47),India,Asia,Hindi,Indian rupee
+Srinagar,1180570,Point(74.806111111 34.091111111),India,Asia,Hindi,Indian rupee
+Ranchi,1073440,Point(85.334722222 23.355555555),India,Asia,Hindi,Indian rupee
+Faridabad,1404653,Point(77.31316 28.41124),India,Asia,Hindi,Indian rupee
+Luanda,2487444,Point(13.234444444 -8.838333333),Angola,Africa,Portuguese,Angolan kwanza
+Matola,1032197,Point(32.466666666 -25.966666666),Mozambique,Africa,Portuguese,Mozambican metical
+Maputo,1133200,Point(32.576388888 -25.915277777),Mozambique,Africa,Portuguese,Mozambican metical
+Nairobi,5545000,Point(36.817222222 -1.286388888),Kenya,Africa,English,Kenyan shilling
+Kumasi,3903480,Point(-1.625 6.7),Ghana,Africa,English,Ghanaian cedi
+Mombasa,1208333,Point(39.666666666 -4.05),Kenya,Africa,English,Kenyan shilling
+Accra,1782150,Point(-0.1969 5.55602),Ghana,Africa,English,Ghanaian cedi
+Islamabad,1014825,Point(73.036944444 33.698888888),Pakistan,Asia,English,Pakistani rupee
+Mumbai,15414288,Point(72.8775 19.075833333),India,Asia,English,Indian rupee
+Kolkata,4496694,Point(88.37 22.5675),India,Asia,English,Indian rupee
+Quetta,1001205,Point(67.017222222 30.195833333),Pakistan,Asia,English,Pakistani rupee
+Faisalabad,3203846,Point(73.079 31.418),Pakistan,Asia,English,Pakistani rupee
+Lahore,11126285,Point(74.343611111 31.549722222),Pakistan,Asia,English,Pakistani rupee
+Rawalpindi,2098231,Point(73.0679 33.6007),Pakistan,Asia,English,Pakistani rupee
+Peshawar,1970042,Point(71.5675 34.014444444),Pakistan,Asia,English,Pakistani rupee
+Multan,1871843,Point(71.471111111 30.197777777),Pakistan,Asia,English,Pakistani rupee
+Gujranwala,2027001,Point(74.183333333 32.15),Pakistan,Asia,English,Pakistani rupee
+Hyderabad,1732693,Point(68.368333333 25.379166666),Pakistan,Asia,English,Indian rupee
+Karachi,14910352,Point(67.01 24.86),Pakistan,Asia,English,Pakistani rupee
+Ahmedabad,7645000,Point(72.579722222 23.021944444),India,Asia,English,Indian rupee
+Surat,5935000,Point(72.84 21.205),India,Asia,English,Indian rupee
+Gwalior,1069276,Point(78.1775 26.2125),India,Asia,English,Indian rupee
+Jodhpur,1033918,Point(73.027777777 26.294444444),India,Asia,English,Indian rupee
+Prayagraj,5954391,Point(81.85 25.45),India,Asia,English,Indian rupee
+Bhopal,1798218,Point(77.416666666 23.25),India,Asia,English,Indian rupee
+Bengaluru,12327000,Point(77.5912997 12.9791198),India,Asia,English,Indian rupee
+Pune,6200000,Point(73.855277777 18.521111111),India,Asia,English,Indian rupee
+Lucknow,3382000,Point(80.947 26.847),India,Asia,English,Indian rupee
+Ludhiana,1618879,Point(75.848611111 30.908333333),India,Asia,English,Indian rupee
+Vadodara,3100260,Point(73.2 22.3),India,Asia,English,Indian rupee
+Aurangabad,1175116,Point(75.32 19.88),India,Asia,English,Indian rupee
+Madurai,1561129,Point(78.119394444 9.919661111),India,Asia,English,Indian rupee
+Meerut,1571434,Point(77.706388888 28.98),India,Asia,English,Indian rupee
+Vijayawada,1048240,Point(80.616666666 16.516666666),India,Asia,English,Indian rupee
+Hyderabad,9305000,Point(78.474722222 17.361666666),India,Asia,English,Indian rupee
+Agra,1585705,Point(78.02 27.18),India,Asia,English,Indian rupee
+Jabalpur,1267564,Point(79.933333333 23.166666666),India,Asia,English,Indian rupee
+Nagpur,2405665,Point(79.080555555 21.149722222),India,Asia,English,Indian rupee
+Rajkot,2043000,Point(70.798363888 22.296908333),India,Asia,English,Indian rupee
+Amritsar,1159227,Point(74.87704 31.626917),India,Asia,English,Indian rupee
+Nashik,1486053,Point(73.783333333 20.0),India,Asia,English,Indian rupee
+Amritsar,1132383,Point(74.87704 31.626917),India,Asia,English,Indian rupee
+Delhi,26495000,Point(77.216666666 28.666666666),India,Asia,English,Indian rupee
+Vadodara,2065771,Point(73.2 22.3),India,Asia,English,Indian rupee
+Raipur,1010087,Point(81.6336833 21.2379468),India,Asia,English,Indian rupee
+Jamshedpur,1558000,Point(86.183333333 22.8),India,Asia,English,Indian rupee
+Kanpur,4581268,Point(80.331111111 26.4725),India,Asia,English,Indian rupee
+Patna,1684222,Point(85.141388888 25.61),India,Asia,English,Indian rupee
+Thane,1886941,Point(72.963333333 19.18),India,Asia,English,Indian rupee
+Howrah,1077075,Point(88.329444444 22.58),India,Asia,English,Indian rupee
+Jaipur,3073350,Point(75.82 26.915),India,Asia,English,Indian rupee
+Visakhapatnam,2035922,Point(83.292222222 17.693888888),India,Asia,English,Indian rupee
+Rajkot,2043000,Point(70.793333333 22.291666666),India,Asia,English,Indian rupee
+Ghaziabad,2375820,Point(77.416666666 28.666666666),India,Asia,English,Indian rupee
+Vasai-Virar,1222390,Point(72.8 19.47),India,Asia,English,Indian rupee
+Srinagar,1180570,Point(74.806111111 34.091111111),India,Asia,English,Indian rupee
+Ranchi,1073440,Point(85.334722222 23.355555555),India,Asia,English,Indian rupee
+Auckland,1470100,Point(174.765277777 -36.849166666),New Zealand,Oceania,English,New Zealand dollar
+Faridabad,1404653,Point(77.31316 28.41124),India,Asia,English,Indian rupee
+Antananarivo,1275207,Point(47.525 -18.91),Madagascar,Africa,Malagasy,Malagasy ariary
+Kabul,5333284,Point(69.165833333 34.532777777),Afghanistan,Asia,Uzbek,Afghan afghani
+Kabul,5333284,Point(69.165833333 34.532777777),Afghanistan,Asia,Turkmen,Afghan afghani
+Gazipur,2677715,Point(90.375 23.988888888),Bangladesh,Asia,Bangla,Bangladeshi taka
+Kabul,5333284,Point(69.165833333 34.532777777),Afghanistan,Asia,Arabic,Afghan afghani
+Casablanca,3215935,Point(-7.62 33.599166666),Morocco,Africa,Arabic,Moroccan dirham
+Nouakchott,1446761,Point(-15.9785 18.08581),Mauritania,Africa,Arabic,Mauritanian ouguiya
+Tangier,1275428,Point(-5.803888888 35.776666666),Morocco,Africa,Arabic,Moroccan dirham
+Marrakesh,1002697,Point(-7.98108 31.62947),Morocco,Africa,Arabic,Moroccan dirham
+Santiago,6269384,Point(-72.443676 -12.6175153),Peru,South America,Aymara,Chilean peso
+Santa Cruz de la Sierra,3151676,Point(-63.1975 -17.789166666),Bolivia,South America,Aymara,Bolivian boliviano
+Lagos,8048430,Point(-8.67422 37.10202),Portugal,Europe,Portuguese,Nigerian naira
+Manaus,2303732,Point(-60.021666666 -3.118888888),Brazil,South America,Portuguese,Brazilian real
+Brasília,2996899,Point(-47.882777777 -15.793888888),Brazil,South America,Portuguese,Brazilian real
+São Paulo,11451999,Point(-46.633947222 -23.550394444),Brazil,South America,Portuguese,Brazilian real
+Santiago,6269384,Point(-72.443676 -12.6175153),Peru,South America,Quechua,Chilean peso
+Santa Cruz de la Sierra,3151676,Point(-63.1975 -17.789166666),Bolivia,South America,Quechua,Bolivian boliviano
+Kabul,5333284,Point(69.165833333 34.532777777),Afghanistan,Asia,Balochi,Afghan afghani
+Hiroshima,1198021,Point(132.455305555 34.38525),Japan,Asia,Japanese,Japanese yen
+Sapporo,1959313,Point(141.354444444 43.061944444),Japan,Asia,Japanese,Japanese yen
+Fukuoka,1603043,Point(130.401666666 33.59),Japan,Asia,Japanese,Japanese yen
+Nagoya,2326844,Point(136.90641 35.18147),Japan,Asia,Japanese,Japanese yen
+Osaka,2751862,Point(135.502111111 34.69375),Japan,Asia,Japanese,Japanese yen
+Sendai,1061177,Point(140.869416666 38.268222222),Japan,Asia,Japanese,Japanese yen
+Kobe,1521707,Point(135.195444444 34.690166666),Japan,Asia,Japanese,Japanese yen
+Kyoto,1463723,Point(135.768111111 35.011611111),Japan,Asia,Japanese,Japanese yen
+Tokyo,9640742,Point(139.774444 35.683889),Japan,Asia,Japanese,Japanese yen
+Yokohama,3757630,Point(139.634222222 35.450333333),Japan,Asia,Japanese,Japanese yen
+Nagoya,2326844,Point(136.906388888 35.181388888),Japan,Asia,Japanese,Japanese yen
+Tokyo,14264798,Point(139.691666666 35.689444444),Japan,Asia,Japanese,Japanese yen
+Kabul,5333284,Point(69.165833333 34.532777777),Afghanistan,Asia,Pashto,Afghan afghani
+Nairobi,5545000,Point(36.817222222 -1.286388888),Kenya,Africa,Swahili,Kenyan shilling
+Mombasa,1208333,Point(39.666666666 -4.05),Kenya,Africa,Swahili,Kenyan shilling
+Phnom Penh,2129371,Point(104.921027777 11.569583333),Cambodia,Asia,Khmer,Cambodian riel
+Kabul,5333284,Point(69.165833333 34.532777777),Afghanistan,Asia,Pashayi,Afghan afghani
+Yerevan,1106300,Point(44.514444444 40.181388888),Armenia,Asia,Armenian,Armenian dram sign
+Yerevan,1106300,Point(44.514444444 40.181388888),Armenia,Asia,Armenian,Armenian dram
+Budapest,1685209,Point(19.040833333 47.498333333),Hungary,Europe,Hungarian,Hungarian forint
+Pyongyang,2863000,Point(125.7475 39.016666666),North Korea,Asia,Korean,North Korean won
+Kuala Lumpur,9000280,Point(101.695277777 3.147777777),Malaysia,Asia,Malay,Malaysian ringgit
+Yangon,6874000,Point(96.15611 16.80528),Myanmar,Asia,Burmese,Myanmar kyat
+Mandalay,1225546,Point(96.08359 21.97473),Myanmar,Asia,Burmese,Myanmar kyat
+Yangon,6874000,Point(96.16 16.795),Myanmar,Asia,Burmese,Myanmar kyat
+Mandalay,1225546,Point(96.084444444 21.983055555),Myanmar,Asia,Burmese,Myanmar kyat
+Naypyidaw,1160242,Point(96.115 19.7475),Myanmar,Asia,Burmese,Myanmar kyat
+Kabul,5333284,Point(69.165833333 34.532777777),Afghanistan,Asia,Nuristani,Afghan afghani
+Kabul,5333284,Point(69.165833333 34.532777777),Afghanistan,Asia,Dari,Afghan afghani
+Monterrey,1142952,Point(-100.318055555 25.684444444),Mexico,North America,Yucatec Maya,Mexican peso
+Guadalajara,1385621,Point(-103.342222222 20.676388888),Mexico,North America,Yucatec Maya,Mexican peso
+Tijuana,1964788,Point(-117.037155 32.536447),Mexico,North America,Yucatec Maya,Mexican peso
+Mexico City,9209944,Point(-99.13589 19.353773),Mexico,North America,Yucatec Maya,Mexican peso
+Zapopan,1257547,Point(-103.391111111 20.720833333),Mexico,North America,Yucatec Maya,Mexican peso
+Ahvaz,1184788,Point(48.684166666 31.318888888),Iran,Asia,Persian,Iranian rial
+Ulaanbaatar,1396288,Point(106.905515 47.921357),Mongolia,Asia,Mongolian,Mongolian tögrög
+Isfahan,1961260,Point(51.675 32.6525),Iran,Asia,Persian,Iranian rial
+Tehran,8693706,Point(51.389722222 35.688888888),Iran,Asia,Persian,Iranian rial
+Kabul,5333284,Point(69.165833333 34.532777777),Afghanistan,Asia,Pamir,Afghan afghani
+Casablanca,3215935,Point(-7.62 33.599166666),Morocco,Africa,Standard Moroccan Tamazight,Moroccan dirham
+Lagos,8048430,Point(-8.67422 37.10202),Portugal,Europe,Mirandese,Nigerian naira
+Conakry,1667864,Point(-13.712222222 9.509166666),Guinea,Africa,languages of Guinea,Guinean franc
+Tangier,1275428,Point(-5.803888888 35.776666666),Morocco,Africa,Standard Moroccan Tamazight,Moroccan dirham
+Marrakesh,1002697,Point(-7.98108 31.62947),Morocco,Africa,Standard Moroccan Tamazight,Moroccan dirham
+Amman,4007526,Point(35.933333333 31.95),Jordan,Asia,Arabic,Jordanian dinar
+N'Djamena,1092066,Point(15.05 12.11),Chad,Africa,Arabic,Central African CFA franc
+Basra,1326564,Point(47.81 30.515),Iraq,Asia,Arabic,Iraqi dinar
+Irbid,1911600,Point(35.85 32.555555555),Jordan,Asia,Arabic,Jordanian dinar
+Beirut,2421354,Point(35.513055555 33.886944444),Lebanon,Asia,Arabic,Lebanese pound
+Kuwait City,2989000,Point(47.98 29.375),Kuwait,Asia,Arabic,Kuwaiti dinar
+Mosul,1792000,Point(43.116666666 36.366666666),Iraq,Asia,Arabic,Iraqi dinar
+Muscat,1421409,Point(58.592222222 23.613888888),Oman,Asia,Arabic,Omani rial
+Algiers,2364230,Point(3.058611111 36.776388888),Algeria,Africa,Arabic,Algerian dinar
+Baghdad,8126755,Point(44.366111111 33.315277777),Iraq,Asia,Arabic,Iraqi dinar
+Bishkek,1191000,Point(74.566666666 42.866666666),Kyrgyzstan,Asia,Kyrgyz,Kyrgyz som
+Monterrey,1142952,Point(-100.318055555 25.684444444),Mexico,North America,Nahuatl,Mexican peso
+Guadalajara,1385621,Point(-103.342222222 20.676388888),Mexico,North America,Nahuatl,Mexican peso
+Tijuana,1964788,Point(-117.037155 32.536447),Mexico,North America,Nahuatl,Mexican peso
+Mexico City,9209944,Point(-99.13589 19.353773),Mexico,North America,Nahuatl,Mexican peso
+Zapopan,1257547,Point(-103.391111111 20.720833333),Mexico,North America,Nahuatl,Mexican peso
+Sydney,5450496,Point(151.21 -33.867777777),Australia,Oceania,Auslan,Australian dollar
+Adelaide,1387290,Point(138.6 -34.9275),Australia,Oceania,Auslan,Australian dollar
+Perth,2141834,Point(115.859722222 -31.955833333),Australia,Oceania,Auslan,Australian dollar
+Pyongyang,2863000,Point(125.7475 39.016666666),North Korea,Asia,North Korean standard language,North Korean won
+Melbourne,5350705,Point(144.963055555 -37.814166666),Australia,Oceania,Auslan,Australian dollar
+Brisbane,2706966,Point(153.027777777 -27.467777777),Australia,Oceania,Auslan,Australian dollar
+Santa Cruz de la Sierra,3151676,Point(-63.1975 -17.789166666),Bolivia,South America,Guarani,Bolivian boliviano
+Auckland,1470100,Point(174.765277777 -36.849166666),New Zealand,Oceania,New Zealand Sign Language,New Zealand dollar
+Auckland,1470100,Point(174.765277777 -36.849166666),New Zealand,Oceania,Māori,New Zealand dollar
+Basra,1326564,Point(47.81 30.515),Iraq,Asia,Kurdish,Iraqi dinar
+Mosul,1792000,Point(43.116666666 36.366666666),Iraq,Asia,Kurdish,Iraqi dinar
+Baghdad,8126755,Point(44.366111111 33.315277777),Iraq,Asia,Kurdish,Iraqi dinar
+Vienna,2028289,Point(16.3725 48.208333333),Austria,Europe,Austrian Sign Language,Euro
+Sydney,5450496,Point(151.21 -33.867777777),Australia,Oceania,Australian English,Australian dollar
+Adelaide,1387290,Point(138.6 -34.9275),Australia,Oceania,Australian English,Australian dollar
+Perth,2141834,Point(115.859722222 -31.955833333),Australia,Oceania,Australian English,Australian dollar
+Melbourne,5350705,Point(144.963055555 -37.814166666),Australia,Oceania,Australian English,Australian dollar
+Brisbane,2706966,Point(153.027777777 -27.467777777),Australia,Oceania,Australian English,Australian dollar
+Algiers,2364230,Point(3.058611111 36.776388888),Algeria,Africa,Standard Algerian Berber,Algerian dinar
+Addis Ababa,5704000,Point(38.736944444 9.027222222),Ethiopia,Africa,Amharic,Ethiopian birr
