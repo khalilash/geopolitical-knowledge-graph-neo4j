@@ -2,7 +2,7 @@
 
 ## Deskripsi Proyek
 
-Proyek ini membangun knowledge graph geopolitik dengan mengintegrasikan data dari Wikidata dan DBpedia (kota, negara, benua, bahasa, mata uang) ke dalam Neo4j. Graph dianalisis menggunakan algoritma Graph Data Science (PageRank, Jaccard Similarity, Louvain Community Detection), serta diperkaya dengan komponen AI berbasis LangChain: Text-to-Cypher, LLM Graph Builder, dan GraphRAG.
+Proyek ini membangun knowledge graph geopolitik dengan mengintegrasikan data dari Wikidata dan DBpedia (kota, negara, benua, bahasa, mata uang) ke dalam Neo4j, dilengkapi dengan komponen berbasis LangChain untuk LLM Text-to-Cypher, LLM Graph Builder, dan GraphRAG (Graph-Augmented Retrieval).
 
 ## Arsitektur
 
@@ -10,7 +10,6 @@ Proyek ini membangun knowledge graph geopolitik dengan mengintegrasikan data dar
 flowchart TD
     A[Wikidata + DBpedia via SPARQL] --> B[CSV - Pandas Merge]
     B --> C[Neo4j Graph]
-    C --> D[Graph Analytics<br/>PageRank, Jaccard, Louvain]
     C --> E[GraphCypherQAChain<br/>Text-to-Cypher and GraphRAG]
     C --> F[LLMGraphTransformer<br/>Unstructured text to Neo4j]
     F --> E
@@ -24,19 +23,14 @@ flowchart TD
 - **Relationships**: `BELONGS_TO`, `PART_OF`, `SPEAKS`, `USES_CURRENCY`
 - Dataset: 250+ baris, mencakup 5 entitas, hasil integrasi Wikidata + DBpedia via SPARQL
 
-### 2. Graph Analytics (Neo4j GDS)
-- **PageRank**: mengukur dominasi struktural bahasa dalam jaringan
-- **Jaccard Similarity**: mengukur kemiripan profil geopolitik antar negara
-- **Louvain Community Detection**: mendeteksi blok/komunitas regional secara otomatis
-
-### 3. LLM Text-to-Cypher & GraphRAG
+### 2. LLM Text-to-Cypher & GraphRAG
 Menggunakan `GraphCypherQAChain` dari LangChain. Chain ini secara otomatis:
 1. Membaca schema graph via `graph.refresh_schema()`
 2. Menerjemahkan pertanyaan bahasa natural menjadi query Cypher
 3. Mengeksekusi query ke Neo4j
 4. Menghasilkan jawaban natural language berdasarkan hasil query
 
-### 4. LLM Graph Builder
+### 3. LLM Graph Builder
 Menggunakan `LLMGraphTransformer` untuk mengekstrak entitas dan relasi dari teks tidak terstruktur (contoh: artikel berita geopolitik). Ekstraksi dibatasi menggunakan `allowed_nodes` dan `allowed_relationships` agar hasil tetap konsisten dengan schema graph, kemudian ditambahkan ke Neo4j via `graph.add_graph_documents()`.
 
 ## Instalasi & Konfigurasi
@@ -114,7 +108,7 @@ Proyek ini dikembangkan dengan bantuan AI assistant (Claude, Anthropic) untuk me
 - Menyusun prompt internal untuk Text-to-Cypher (schema graph → Cypher) dan GraphRAG (hasil query → jawaban natural language)
 
 ### Modifikasi Manual
-- Penyesuaian kredensial koneksi (Neo4j Sandbox URI, OpenRouter API key) ke instance dan dataset milik kelompok ini
+- Penyesuaian kredensial koneksi (Neo4j Sandbox URI, OpenRouter API key) ke instance dan dataset kelompok 
 - Penggantian model LLM akibat unavailable/rate-limited
 - Pengujian query dengan berbagai pertanyaan untuk validasi hasil
 - Penyesuaian `allowed_nodes` dan `allowed_relationships` agar sesuai schema graph
